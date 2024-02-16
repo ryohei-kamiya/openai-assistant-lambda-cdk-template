@@ -8,6 +8,10 @@ However, there are times when it is difficult to adopt the method of setting up 
 This repository's code is a CDK template for deploying a Python app container on AWS Lambda.
 Using this repository's code, you can build a demo environment more securely than exposing your local development environment's port to the Internet.
 
+
+https://github.com/ryohei-kamiya/openai-assistant-lambda-cdk-template/assets/2719533/c58f77c5-73c7-4732-afa2-68866b570c5b
+
+
 ## Requirements
 To run the code in this repository, the following conditions must be met:
 
